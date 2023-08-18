@@ -2,4 +2,4 @@
  Desafío n° 1 de SQL para la generación 30 de Desafío Latam
 
  # Video del desafío en YouTube:
- https://www.youtube.com/watch?v=_34Sfa1tNrc
+ [Video-explicativo](https://www.youtube.com/watch?v=_34Sfa1tNrc)
